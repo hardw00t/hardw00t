@@ -11,6 +11,14 @@
 [![Website](https://img.shields.io/badge/Website-hardw00t.io-238636?style=for-the-badge&logo=firefox&logoColor=white)](https://www.hardw00t.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-hardw00t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardw00t)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-mehta-60a679130/)
+[![Twitter](https://img.shields.io/badge/Twitter-@hardw00t-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hardw00t)
+
+<br/>
+
+### Certifications
+![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-dc3545?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OSWP](https://img.shields.io/badge/OSWP-Offensive_Security-dc3545?style=for-the-badge&logo=kalilinux&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Certified-0078D4?style=for-the-badge&logo=iso&logoColor=white)
 
 <br/>
 
@@ -87,6 +95,24 @@ class SecurityResearcher:
 
 ---
 
+## `> cat /var/log/cve_discoveries.log`
+
+<div align="center">
+
+### Published CVEs
+
+| CVE ID | Target | Description | Year |
+|:------:|:------:|:------------|:----:|
+| [![CVE](https://img.shields.io/badge/CVE--2021--31001-Critical-dc3545?style=flat-square&logo=apple&logoColor=white)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31001) | **Apple iOS** | VoLTE Implementation Vulnerability - Critical flaw affecting mobile communication security, voice call privacy and integrity | 2021 |
+| [![CVE](https://img.shields.io/badge/CVE--2018--11646-High-ff6b35?style=flat-square&logo=safari&logoColor=white)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11646) | **WebKit** | `webkitFaviconDatabaseSetIconURLForPageURL` mishandles unset pageURL in Safari Technology Preview, leading to application crash | 2018 |
+| [![CVE](https://img.shields.io/badge/CVE--2018--12422-High-ff6b35?style=flat-square&logo=gnome&logoColor=white)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-12422) | **GNOME Evolution** | Buffer overflow vulnerability in GNOME Evolution email client | 2018 |
+| [![CVE](https://img.shields.io/badge/CVE--2018--11396-Medium-ffc107?style=flat-square&logo=gnome&logoColor=white)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11396) | **GNOME Web** | Security vulnerability in Epiphany (GNOME Web browser) | 2018 |
+| [![CVE](https://img.shields.io/badge/CVE--2018--6613-Medium-ffc107?style=flat-square&logo=linux&logoColor=white)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-6613) | **Various** | Security vulnerability discovered and responsibly disclosed | 2018 |
+
+</div>
+
+---
+
 ## `> ls -la /tools`
 
 <div align="center">
@@ -140,7 +166,7 @@ class SecurityResearcher:
 <div align="center">
 
 [![simple_semgrepAI](https://github-readme-stats.vercel.app/api/pin/?username=hardw00t&repo=simple_semgrepAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636)](https://github.com/hardw00t/simple_semgrepAI)
-[![FalconEYE](https://github-readme-stats.vercel.app/api/pin/?username=hardw00t&repo=FalconEYE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636)](https://github.com/hardw00t/FalconEYE)
+[![FalconEYE](https://github-readme-stats.vercel.app/api/pin/?username=FalconEYE-ai&repo=FalconEYE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636)](https://github.com/FalconEYE-ai/FalconEYE)
 
 </div>
 
