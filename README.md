@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=hardw00t&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Vulnerability%20Hunter%20%7C%20Breaking%20Things%20to%20Make%20Them%20Secure&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%90+Offensive+Security+%7C+Red+Team+%7C+Exploit+Development;%F0%9F%93%B1+Mobile+Security+%7C+Android+%26+iOS+Research;%E2%98%81%EF%B8%8F+Cloud+%7C+Container+%7C+DevSecOps+Security;%F0%9F%A4%96+AI+Security+%7C+LLM+Integration+%26+Threats)](https://github.com/hardw00t)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Offensive+Security+%7C+Red+Team+%7C+Exploit+Dev;Mobile+Security+%7C+Android+%26+iOS+Research;Cloud+%7C+Container+%7C+DevSecOps+Security;AI+Security+%7C+LLM+Integration+%26+Threats;5%2B+Published+CVEs+%7C+OSCP+%7C+OSWP)](https://github.com/hardw00t)
 
 <br/>
 
